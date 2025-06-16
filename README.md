@@ -127,3 +127,8 @@ After training, the model achieves high accuracy on the validation set and is ca
 Thanks to the TensorFlow and Keras communities for providing excellent tools and documentation. This project is built using open-source tools to promote accessible and reproducible machine learning.
 
 ## Input Image
+
+![Image](https://github.com/user-attachments/assets/96ad3456-08d7-4e21-9e7f-6817f07782bc)
+
+## Output Image
+
