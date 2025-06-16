@@ -132,3 +132,4 @@ Thanks to the TensorFlow and Keras communities for providing excellent tools and
 
 ## Output Image
 
+![Image](https://github.com/user-attachments/assets/b0a697e4-d158-4fd8-9113-09fd51cc2103)
