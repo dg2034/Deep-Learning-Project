@@ -12,12 +12,6 @@
 
 *MENTOR*: NEELA SANTOSH
 
-Thanks for uploading the file. I’ve reviewed your Jupyter notebook (`task_2.ipynb`). It appears to be focused on image classification using a deep learning model built with TensorFlow and Keras. The notebook includes data preprocessing, model creation, training, evaluation, and saving of the model.
-
-Here’s a detailed `README.md` file (approximately 500 words) that you can use for your GitHub repository:
-
----
-
 # 🧠 Image Classification using CNN with TensorFlow
 
 This repository contains a deep learning-based image classification project built with TensorFlow and Keras. The project aims to develop a robust Convolutional Neural Network (CNN) capable of identifying patterns in image data and classifying them into predefined categories.
